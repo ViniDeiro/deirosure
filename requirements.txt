@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+selenium
+playwright
+pandas
+jinja2 
