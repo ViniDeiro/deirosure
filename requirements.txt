@@ -1,6 +1,9 @@
 fastapi
 uvicorn
 selenium
-playwright
+webdriver-manager
+requests
+beautifulsoup4
 pandas
-jinja2 
+numpy
+python-dotenv 
